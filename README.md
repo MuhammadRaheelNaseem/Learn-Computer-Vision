@@ -2,7 +2,8 @@
 
 # <div class='jumbotron alert-success'><h1>Computer Vision (OpenCV)</h1></div>
 
-![image.png](attachment:image.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/d9b537d5-9c07-413e-b1a1-20384fc3d976)
+
 
 # `Introduction:`
 OpenCV is a huge open-source library for computer vision, machine learning, and image processing. It can process images and videos to identify objects, faces, or even the handwriting of a human.
@@ -11,11 +12,13 @@ OpenCV is a huge open-source library for computer vision, machine learning, and 
 
 # `conda install -c conda-forge opencv`
 
-![image.png](attachment:image.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/254d6248-6f37-436c-aac3-004ddc59157b)
+
 
 `Press the Enter button and it will download all the related OpenCV configuration.`
 
-![image-2.png](attachment:image-2.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/a1f63fb6-d927-4ee2-8903-056dba816dff)
+
 
 # `Install OpenCV in the Windows via pip`
 
@@ -27,12 +30,12 @@ OpenCV is a huge open-source library for computer vision, machine learning, and 
 
 # `pip install opencv-python`
 
-![image-3.png](attachment:image-3.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/a875d174-d9ff-402e-aadc-cccde166b995)
+
 
 Open the command prompt and type the following code to check if the OpenCV is installed or not.
 
-![image-4.png](attachment:image-4.png)
-
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/6482252f-f28a-45c7-95a8-7faf3c6c107c)
 
 
 # `Let's Start Coding:`
@@ -528,7 +531,8 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
-![image.png](attachment:image.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/b751f9b6-b231-4f61-aede-ec1cdc0c1144)
+
 
 # Finding image size
 
@@ -577,7 +581,8 @@ cv2.destroyAllWindows()
 
 ```
 
-![image.png](attachment:image.png) 
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/9ccc8a84-bcfc-4849-9da1-76e5ad578fed)
+
 
 # grayscale mode
 
@@ -601,7 +606,8 @@ cv2.destroyAllWindows()
 
 ```
 
-![image-2.png](attachment:image-2.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/aa322dc0-0f81-4afc-bbcb-bfc79da87abc)
+
 
 
 ```python
@@ -619,7 +625,8 @@ cv2.waitKey(0) # This is necessary to be required so that the image doesn't clos
 cv2.destroyAllWindows()  
 ```
 
-![image.png](attachment:image.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/0ea6e989-f3f0-48ae-9227-c4ee7ffa5415)
+
 
 # `Drawing Functions`
 
@@ -644,7 +651,8 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()  
 ```
 
-![image.png](attachment:image.png) 
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/9208cfd3-9c05-41f5-9da5-4610bd4e8855)
+
 
 
 ```python
@@ -668,7 +676,8 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()  
 ```
 
-![image.png](attachment:image.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/418bdf9a-bd8d-4406-83c4-e1d641b06191)
+
 
 
 ```python
@@ -681,7 +690,8 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()  
 ```
 
-![image.png](attachment:image.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/5927f306-13a0-495b-b2d5-96c084ec67ec)
+
 
 
 ```python
@@ -695,7 +705,8 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()  
 ```
 
-![image.png](attachment:image.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/87c30602-9b59-4c6f-b9ab-cfc63e37116f)
+
 
 
 ```python
@@ -708,7 +719,8 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()  
 ```
 
-![image.png](attachment:image.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/25045df2-0150-40fe-be65-59aa0622d873)
+
 
 
 ```python
@@ -724,15 +736,18 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()  
 ```
 
-![image.png](attachment:image.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/b76df996-9677-4861-a713-c4b25dd8d042)
+
 
 # Type of Font
 
-![image.png](attachment:image.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/28eeba22-ed6f-4fb2-80b4-fa99b90526be)
 
-# function clearification
 
-![image-2.png](attachment:image-2.png)
+# function classification
+
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/87564f23-b620-4ba5-9a98-be9ff8f26001)
+
 
 
 ```python
@@ -746,7 +761,8 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()  
 ```
 
-![image.png](attachment:image.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/b6bbbdd4-5af5-4d00-9b46-9d0656098325)
+
 
 # `Line detection in python`
 
@@ -855,7 +871,8 @@ plt.imshow(img), plt.show()
 
 https://github.com/MuhammadRaheelNaseem/OpenCV-Cascade-Files/tree/4.x/data/haarcascades
 
-![image.png](attachment:image.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/0e30a9e1-b423-4f61-a909-f44d4e34167e)
+
 
 
 
@@ -930,8 +947,8 @@ cv2.destroyAllWindows()
 
     Found 21 faces!
     
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/2f759f46-57fd-4344-9351-aa7304bf9ee9)
 
-![image.png](attachment:image.png)
 
 
 ```python
@@ -1024,7 +1041,8 @@ while True:
 ```
 
 # Video Output:
-![image.png](attachment:image.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/729bc9f4-4d3b-4271-b99f-8118ba3ba736)
+
 
 
 ```python
@@ -1057,7 +1075,8 @@ cap.release()
 ```
 
 # Video Output:
-![image.png](attachment:image.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/04c62ddf-a536-427e-a4b9-aff825bc3f4a)
+
 
 # `This process is specific to windows for recognizing faces using the model, and is only applicable for windows.`
 
@@ -1070,8 +1089,8 @@ cap.release()
 # `Step 1) Download Visual Studio`
 
 `First, visit the following Visual Studio free download link` https://visualstudio.microsoft.com/downloads/
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/3e80919c-7d4d-4468-9ae0-7a62db8cda67)
 
-![image.png](attachment:image.png)
 
 `You can select Visual Studio 2022 Community Edition`
 
@@ -1079,30 +1098,35 @@ cap.release()
 
 `Click on the downloaded .exe file`
 
-![image-2.png](attachment:image-2.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/410e59b3-9a96-4248-99d4-afb6f82c4e26)
+
 
 # `Step 3) Start the installation`
 
 `In the next screen, click continue to start Visual Studio installation`
 
-![image-3.png](attachment:image-3.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/66e78aed-f148-4b3a-a0fd-fb29aedce7bc)
+
 
 # `Step 4) Let the installation complete`
 
 `Visual Studio will start downloading the initial files. Download speed will vary as per your internet connection.`
 
-![image-4.png](attachment:image-4.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/e2152335-9bf9-4ea9-b96e-8cec38ede23e)
+
 
 # `Step 5) Choose the software version`
 `In next screen, click install`
 
-![image-5.png](attachment:image-5.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/f22143d2-2706-4fc1-b835-877589b0ead5)
+
 
 # `Step 6) Select the desktop version`
 
 `In next screen,`
 
-![image-7.png](attachment:image-7.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/79a0c6c6-e154-4b42-9342-11d616af9c20)
+
 
 `Select “Desktop Development C++”`
 
@@ -1112,19 +1136,22 @@ cap.release()
 
 `Visual Studio will download the relevant files based on the selection in step 6`
 
-![image-8.png](attachment:image-8.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/7a5cb950-cf28-43e0-bdb9-b4521e701f50)
+
 
 # `Step 8) Reboot your PC`
 
 `Once the download is done, you will be asked to reboot the PC to complete Visual Studio setup`
 
-![image-9.png](attachment:image-9.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/0438fcf1-87bb-472f-9663-23fb32e1ac79)
+
 
 # `Step 9) Open Visual Studio`
 
 `Post reboot, open the Visual Studio IDE`
 
-![image-10.png](attachment:image-10.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/35defa93-244c-4af5-87de-920029041016)
+
 
 `Select a theme of your choice`
 
@@ -1140,15 +1167,17 @@ if this is not work then write this
 
 `pip install https://files.pythonhosted.org/packages/05/57/e8a8caa3c89a27f80bc78da39c423e2553f482a3705adc619176a3a24b36/dlib-19.17.0.tar.gz`
 
-![image.png](attachment:image.png)
-![image-2.png](attachment:image-2.png)
-![image-3.png](attachment:image-3.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/86d5865f-ac53-4d75-ad50-6cccbe684d4c)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/b12780bb-ffe9-4d02-9b82-fb451a161f19)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/e425fbb7-7315-419c-bc1b-c82f67ec39b7)
+
 
 # `Installation of Cmake in Windows`
 
 `ownload cmake-*.exe installer from `https://cmake.org/download/ `and run it.`
 
-![image-2.png](attachment:image-2.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/c272051f-4193-4e91-9bff-e96b65067c85)
+
 
 `Click Download:`
 
@@ -1156,43 +1185,51 @@ if this is not work then write this
 
 `Click Next:`
 
-![image.png](attachment:image.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/ebdc308e-df4b-4225-8093-1841208732ea)
+
 
 `Click I agree:`
 
-![image-3.png](attachment:image-3.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/85078a77-9791-497e-aaaf-6fd715d39b46)
+
 
 `Check one of the Add CMake to the system PATH ... if you want to have CMake in PATH. Check Create CMake Desktop Icon to create icon on desktop:`
 
-![image-4.png](attachment:image-4.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/83ab7cb9-fb31-496a-8345-247a29134b73)
+
 
 `Choose installation path. Add suffix with version in case you want to have several versions installed simultaneously:`
 
-![image-5.png](attachment:image-5.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/28cf8d74-4a60-4025-8051-83f1f3aadf1c)
+
 
 `Shortcut in Start Menu folder:`
 
-![image-6.png](attachment:image-6.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/a0d4152f-d0c4-4972-a5b0-a31de5a1862d)
+
 
 `Installing...`
 
-![image-7.png](attachment:image-7.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/0f16f798-5729-479e-a2aa-56fd2f1f2b8a)
+
 
 `Click Finish:`
 
-![image-8.png](attachment:image-8.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/2455b3e2-b388-49a1-8def-1daec5ff4674)
+
 
 `Desktop icon created:`
 
-![image-9.png](attachment:image-9.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/b287b73c-66a5-4510-b20e-83a88afb3859)
+
 
 ## `Open command prompt & write :`
 
 `pip install cmake`
 
-![image-10.png](attachment:image-10.png)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/d685ce15-d85a-441b-8513-4e6617c2b82a)
+![image](https://github.com/MuhammadRaheelNaseem/Learn-Computer-Vision/assets/63813881/363dce4d-182b-4c4c-8f5b-fe4cb141e5a8)
 
-![image-11.png](attachment:image-11.png)
 
 # `Face Recognition`
 
